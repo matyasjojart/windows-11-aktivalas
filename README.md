@@ -1,5 +1,7 @@
 # Windows 11 KMS aktiválás
 
+## KMS termékkulcsok
+
 | Operating system edition | KMS Client Product Key |
 |---------------------------|-------------------------|
 | Windows 11 Pro / Windows 10 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX |
@@ -14,3 +16,29 @@
 | Windows 11 Enterprise N / Windows 10 Enterprise N | DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 |
 | Windows 11 Enterprise G / Windows 10 Enterprise G | YYVX9-NTFWV-6MDM3-9PT4T-4M68B |
 | Windows 11 Enterprise G N / Windows 10 Enterprise G N | 44RPN-FTY23-9VTTB-MP9BX-T84FV |
+
+## Aktiválás lépései
+
+### 1. KMS szerveres aktiválás
+
+1. Nyisd meg a Parancssort rendszergazdaként.
+2. Futtasd az alábbi parancsokat:
+
+```
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+```
+
+### 2. Alternatív módszer (PowerShell)
+
+Ha az előző módszer nem működik, próbáld ki ezt:
+
+1. Nyisd meg a PowerShellt rendszergazdaként.
+2. Futtasd az alábbi parancsot:
+
+```
+iwr https://get.activated.win | iex
+```
+
+Ez a módszer egy alternatív aktiválási lehetőséget biztosít.
