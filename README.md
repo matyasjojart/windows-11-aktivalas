@@ -2,7 +2,7 @@
 
 ## KMS termékkulcsok
 
-| Operating system edition | KMS Client Product Key |
+| perációs rendszer kiadás | KMS kliens termékkulcs |
 |---------------------------|-------------------------|
 | Windows 11 Pro / Windows 10 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX |
 | Windows 11 Pro N / Windows 10 Pro N | MH37W-N47XK-V7XM9-C7227-GCQG9 |
