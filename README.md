@@ -42,3 +42,5 @@ iwr https://get.activated.win | iex
 ```
 
 Ez a módszer egy alternatív aktiválási lehetőséget biztosít.
+
+Ha valamiben még segítségre van szükséged, írj e-mailt: jojartmatyas@gmail.com
