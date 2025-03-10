@@ -25,7 +25,7 @@
 2. Futtasd az alábbi parancsokat:
 
 ```
-slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX (ide azt a kulcsot ird be amelyiket szeretnéd)
 slmgr /skms kms8.msguides.com
 slmgr /ato
 ```
